@@ -1,0 +1,7 @@
+.user-componenet {
+  display: flex;
+}
+
+.user-componenet:first-child {
+  display: flex;
+}
